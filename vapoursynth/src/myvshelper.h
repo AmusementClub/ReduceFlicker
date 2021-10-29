@@ -27,6 +27,7 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
 #include <cstdint>
 #include <cstdlib>
 #include <string>
+#include <cstring>
 #include <VapourSynth.h>
 #include "arch.h"
 

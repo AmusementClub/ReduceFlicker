@@ -23,6 +23,7 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
 
 #include <map>
 #include <tuple>
+#include <cstring>
 #include "ReduceFlicker.h"
 #include "myvshelper.h"
 #include "proc_filter.h"
